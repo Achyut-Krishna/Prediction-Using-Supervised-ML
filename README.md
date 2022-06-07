@@ -15,7 +15,7 @@
 <a href="https://colab.research.google.com/drive/1CdmBUyUzndZIKmGmD6Q7Z6GGz_sfb4NF?usp=sharing"> Prediction using Supervised ML</a>
 
 > Demo:
-<a href="https://youtu.be/nVNPTLAgqgM">Prediction using Supervised ML</a>
+<a href="https://youtu.be/pWVMQuUH5Tk">Prediction using Supervised ML</a>
 
 If you have any Queries or Suggestions, feel free to reach out to me!
 
