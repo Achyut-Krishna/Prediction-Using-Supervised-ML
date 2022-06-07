@@ -12,10 +12,12 @@
 ⦿ Here is the dataset :
 <a href="http://bit.ly/w-data">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/manishghoshal99/Prediction-Using-Supervised-ML/blob/main/Prediction-Using-Supervised-ML.ipynb"> Prediction using Supervised ML</a>
+<a href="https://colab.research.google.com/drive/1CdmBUyUzndZIKmGmD6Q7Z6GGz_sfb4NF?usp=sharing"> Prediction using Supervised ML</a>
 
 > Demo:
 <a href="https://youtu.be/nVNPTLAgqgM">Prediction using Supervised ML</a>
+
+If you have any Queries or Suggestions, feel free to reach out to me!
 
 <br><br>
 <p align="center">
@@ -28,14 +30,13 @@
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCBY1EFXHzR7EG1kaVC73pYA
-[gmail]: mailto:meloidasdragneel12@gmail.com
-[linkedin]: https://www.linkedin.com/in/manish-ghoshal-454ba0205/
-[github]: https://github.com/manishghoshal99
+[youtube]: https://www.youtube.com/channel/UCRqQq1O1e0g-7CfoQzCoFdw
+[gmail]: mailto:achyutkrishna1134@gmail.com
+[linkedin]: https://www.linkedin.com/in/achyut-krishna-sai-adiraju-a36308203/
+[github]: https://github.com/Achyut-Krishna
 
 
 
   
-If you have any Queries or Suggestions, feel free to reach out to me!
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
